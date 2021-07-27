@@ -25,7 +25,6 @@
 #include <utility>
 #include <vector>
 
-#include "config.h"
 
 #if defined(_WIN32) && !defined(__CYGWIN__)
 #define OS_WIN

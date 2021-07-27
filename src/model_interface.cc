@@ -15,9 +15,9 @@
 #include <algorithm>
 
 #include "model_interface.h"
-#include "sentencepiece_model.pb.h"
-#include "third_party/absl/memory/memory.h"
-#include "third_party/absl/strings/str_format.h"
+#include "src/sentencepiece_model.pb.h"
+#include "absl/memory/memory.h"
+#include "absl/strings/str_format.h"
 #include "util.h"
 
 namespace sentencepiece {

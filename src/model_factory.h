@@ -18,7 +18,7 @@
 #include <memory>
 
 #include "model_interface.h"
-#include "sentencepiece_model.pb.h"
+#include "src/sentencepiece_model.pb.h"
 
 namespace sentencepiece {
 
